@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" alt="Pavan Kumar Banner" width="100%">
+</p>
 # Hi, I'm Pavan Kumar 👋
 
 Bachelor of Computer Applications (BCA) student passionate about Artificial Intelligence, Machine Learning, Python, and Software Development. I enjoy building practical applications that solve real-world problems while continuously learning new technologies through personal projects and hackathons.
