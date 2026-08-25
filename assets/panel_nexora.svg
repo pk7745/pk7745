@@ -39,10 +39,10 @@
     <text x="-168" y="16" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600">Socket.IO Real-Time Sync</text>
   </g>
 
-  <text x="48" y="78" fill="#f8fafc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="22" font-weight="800" letter-spacing="-0.3">NEXORA &mdash; Enterprise Project Management &amp; Collaboration Platform</text>
+  <text x="48" y="78" fill="#f8fafc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="22" font-weight="800" letter-spacing="-0.3">NEXORA — Enterprise Project Management &amp; Collaboration Platform</text>
   <text x="48" y="100" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400">Full-stack, real-time project management and team workspace platform engineered for agile software teams.</text>
 
-  <text x="48" y="124" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="400">&bull; Engineered drag-and-drop Kanban boards with floating-point position ordering and real-time multi-client synchronization via Socket.IO.</text><text x="48" y="148" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="400">&bull; Implemented strict 4-tier server-enforced Role-Based Access Control (OWNER, ADMIN, MEMBER, VIEWER) across all backend API endpoints.</text><text x="48" y="172" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="400">&bull; Production security suite featuring Zod request validation, Helmet HTTP headers, bcrypt password hashing, and Express rate limiting.</text>
+  <text x="48" y="124" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="400">&#8226; Engineered drag-and-drop Kanban boards with floating-point position ordering and real-time multi-client synchronization via Socket.IO.</text><text x="48" y="148" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="400">&#8226; Implemented strict 4-tier server-enforced Role-Based Access Control (OWNER, ADMIN, MEMBER, VIEWER) across all backend API endpoints.</text><text x="48" y="172" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="400">&#8226; Production security suite featuring Zod request validation, Helmet HTTP headers, bcrypt password hashing, and Express rate limiting.</text>
 
   <g transform="translate(0, 224)">
     
@@ -76,7 +76,7 @@
       </g>
       <g transform="translate(701.5, 0)">
         <rect width="95.0" height="24" rx="6" fill="#0f172a" stroke="#334155" stroke-width="1" />
-        <text x="47.0" y="16" fill="#93c5fd" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" text-anchor="middle">JWT & RBAC</text>
+        <text x="47.0" y="16" fill="#93c5fd" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" text-anchor="middle">JWT &amp; RBAC</text>
       </g>
       <g transform="translate(804.5, 0)">
         <rect width="42.5" height="24" rx="6" fill="#0f172a" stroke="#334155" stroke-width="1" />

@@ -29,8 +29,8 @@
   <g opacity="0.15" stroke="#38bdf8" stroke-width="1.5" fill="none"><rect x="880" y="70" width="40" height="40" rx="6" /><line x1="920" y1="90" x2="960" y2="90" /><rect x="960" y="70" width="40" height="40" rx="6" /><line x1="1000" y1="90" x2="1040" y2="90" /><rect x="1040" y="70" width="40" height="40" rx="6" /></g>
 
   <g transform="translate(48, 26)">
-    <rect width="205.5" height="22" rx="5" fill="#0369a1" fill-opacity="0.3" stroke="#0284c7" stroke-width="0.8" />
-    <text x="9" y="15" fill="#38bdf8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="10.5" font-weight="700" letter-spacing="0.5">DATA ENGINEERING &AMP; AI</text>
+    <rect width="175.5" height="22" rx="5" fill="#0369a1" fill-opacity="0.3" stroke="#0284c7" stroke-width="0.8" />
+    <text x="9" y="15" fill="#38bdf8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="10.5" font-weight="700" letter-spacing="0.5">DATA ENGINEERING &amp; AI</text>
   </g>
 
   <g transform="translate(1152, 26)">
@@ -39,10 +39,10 @@
     <text x="-119" y="16" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600">11/11 Pytest PASS</text>
   </g>
 
-  <text x="48" y="78" fill="#f8fafc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="22" font-weight="800" letter-spacing="-0.3">UNILOG &mdash; Product Intelligence &amp; Catalog Enrichment Engine</text>
+  <text x="48" y="78" fill="#f8fafc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="22" font-weight="800" letter-spacing="-0.3">UNILOG — Product Intelligence &amp; Catalog Enrichment Engine</text>
   <text x="48" y="100" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400">Enterprise data quality, entity resolution, and governance engine converting raw supplier records into standardized catalog intelligence.</text>
 
-  <text x="48" y="124" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="400">&bull; High-throughput data transformation pipeline enforcing an immutable 252-column delivery schema contract across industrial supplier records.</text><text x="48" y="148" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="400">&bull; Automated extraction of physical attributes, specifications, and manufacturer vs. commercial brand entity resolution.</text><text x="48" y="172" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="400">&bull; Implemented rule-based conflict detection, provenance tracking, and human-in-the-loop review queue with 100% test coverage.</text>
+  <text x="48" y="124" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="400">&#8226; High-throughput data transformation pipeline enforcing an immutable 252-column delivery schema contract across industrial supplier records.</text><text x="48" y="148" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="400">&#8226; Automated extraction of physical attributes, specifications, and manufacturer vs. commercial brand entity resolution.</text><text x="48" y="172" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="400">&#8226; Implemented rule-based conflict detection, provenance tracking, and human-in-the-loop review queue with 100% test coverage.</text>
 
   <g transform="translate(0, 224)">
     

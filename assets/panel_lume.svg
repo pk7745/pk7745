@@ -34,15 +34,15 @@
   </g>
 
   <g transform="translate(1152, 26)">
-    <rect x="-234" width="234" height="24" rx="12" fill="#0f172a" stroke="#334155" stroke-width="1" />
-    <circle cx="-222" cy="12" r="4" fill="#10b981" />
-    <text x="-210" y="16" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600">Dual-Token JWT &amp; Analytics</text>
+    <rect x="-206" width="206" height="24" rx="12" fill="#0f172a" stroke="#334155" stroke-width="1" />
+    <circle cx="-194" cy="12" r="4" fill="#10b981" />
+    <text x="-182" y="16" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600">Dual-Token JWT &amp; Analytics</text>
   </g>
 
-  <text x="48" y="78" fill="#f8fafc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="22" font-weight="800" letter-spacing="-0.3">LUM&Eacute; &mdash; Premium Botanical Skincare E-Commerce Platform</text>
+  <text x="48" y="78" fill="#f8fafc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="22" font-weight="800" letter-spacing="-0.3">LUMÉ — Premium Botanical Skincare E-Commerce Platform</text>
   <text x="48" y="100" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400">Production-grade commerce web application with a persistent data-driven analytics and administration layer.</text>
 
-  <text x="48" y="124" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="400">&bull; Built complete e-commerce pipeline: dynamic catalog filtering, cart/wishlist management, checkout flows, and product discovery.</text><text x="48" y="148" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="400">&bull; Architected dual-token authentication system utilizing short-lived access JWTs and secure httpOnly refresh-token rotation.</text><text x="48" y="172" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="400">&bull; Designed dedicated admin dashboard with persistent MongoDB-backed analytics tracking sales metrics, inventory health, and KPI trends.</text>
+  <text x="48" y="124" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="400">&#8226; Built complete e-commerce pipeline: dynamic catalog filtering, cart/wishlist management, checkout flows, and product discovery.</text><text x="48" y="148" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="400">&#8226; Architected dual-token authentication system utilizing short-lived access JWTs and secure httpOnly refresh-token rotation.</text><text x="48" y="172" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="400">&#8226; Designed dedicated admin dashboard with persistent MongoDB-backed analytics tracking sales metrics, inventory health, and KPI trends.</text>
 
   <g transform="translate(0, 224)">
     

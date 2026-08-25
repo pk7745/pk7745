@@ -36,13 +36,13 @@
   <g transform="translate(1152, 26)">
     <rect x="-199" width="199" height="24" rx="12" fill="#0f172a" stroke="#334155" stroke-width="1" />
     <circle cx="-187" cy="12" r="4" fill="#10b981" />
-    <text x="-175" y="16" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600">100k Profiles in <11s CPU</text>
+    <text x="-175" y="16" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600">100k Profiles in &lt;11s CPU</text>
   </g>
 
-  <text x="48" y="78" fill="#f8fafc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="22" font-weight="800" letter-spacing="-0.3">Redrob Ranker &mdash; AI-Powered Candidate Evaluation Platform</text>
+  <text x="48" y="78" fill="#f8fafc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="22" font-weight="800" letter-spacing="-0.3">Redrob Ranker — AI-Powered Candidate Evaluation Platform</text>
   <text x="48" y="100" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400">Algorithmic talent screening and candidate ranking engine built for high-volume recruitment challenges.</text>
 
-  <text x="48" y="124" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="400">&bull; Data-driven ranking platform evaluating candidate profiles against job requirements using a 7-component weighted scoring algorithm.</text><text x="48" y="148" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="400">&bull; Engineered skill-trust validation and honeypot detection to penalize keyword-stuffing and consulting-firm bias.</text><text x="48" y="172" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="400">&bull; High-performance architecture: processed and ranked 100,000 candidate profiles in under 11 seconds on CPU with fact-grounded reasoning.</text>
+  <text x="48" y="124" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="400">&#8226; Data-driven ranking platform evaluating candidate profiles against job requirements using a 7-component weighted scoring algorithm.</text><text x="48" y="148" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="400">&#8226; Engineered skill-trust validation and honeypot detection to penalize keyword-stuffing and consulting-firm bias.</text><text x="48" y="172" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="400">&#8226; High-performance architecture: processed and ranked 100,000 candidate profiles in under 11 seconds on CPU with fact-grounded reasoning.</text>
 
   <g transform="translate(0, 224)">
     

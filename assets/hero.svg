@@ -33,7 +33,7 @@
   </g>
 
   <text x="60" y="125" fill="#f8fafc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="44" font-weight="800" letter-spacing="-0.5">Pavan Kumar S</text>
-  <text x="60" y="168" fill="url(#accent_grad)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="20" font-weight="700" letter-spacing="0.2">Full-Stack Developer &bull; Backend Engineer &bull; AI/ML Enthusiast</text>
+  <text x="60" y="168" fill="url(#accent_grad)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="20" font-weight="700" letter-spacing="0.2">Full-Stack Developer &#8226; Backend Engineer &#8226; AI/ML Enthusiast</text>
   <text x="60" y="208" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15" font-weight="400">Engineering production-grade web platforms, high-throughput REST APIs, data pipelines, and AI systems.</text>
 
   <line x1="60" y1="242" x2="1140" y2="242" stroke="#1e293b" stroke-width="1.5" />

@@ -35,33 +35,33 @@
 
   <g transform="translate(48, 86)">
     <rect width="536" height="118" rx="10" fill="url(#card_inner)" stroke="#1e293b" stroke-width="1.2" />
-    <text x="20" y="28" fill="#38bdf8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="700">CodeAlpha &mdash; Full Stack Development Intern</text>
-    <text x="20" y="52" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="500">&bull; Engineered full-stack web platforms using React, TypeScript, Node.js, Express, MongoDB &amp; PostgreSQL.</text>
-    <text x="20" y="74" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="500">&bull; Implemented secure JWT authentication with httpOnly token rotation, 4-tier RBAC &amp; Socket.IO sync.</text>
-    <text x="20" y="98" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="400">Key Projects: Nexora (Enterprise Project Management SaaS) &amp; LUM&Eacute; (Luxury Botanical E-Commerce)</text>
+    <text x="20" y="28" fill="#38bdf8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="700">CodeAlpha &#8212; Full Stack Development Intern</text>
+    <text x="20" y="52" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="500">&#8226; Engineered full-stack web platforms using React, TypeScript, Node.js, Express, MongoDB &amp; PostgreSQL.</text>
+    <text x="20" y="74" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="500">&#8226; Implemented secure JWT authentication with httpOnly token rotation, 4-tier RBAC &amp; Socket.IO sync.</text>
+    <text x="20" y="98" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="400">Key Projects: Nexora (Enterprise Project Management SaaS) &amp; LUM&#201; (Luxury Botanical E-Commerce)</text>
   </g>
 
   <g transform="translate(616, 86)">
     <rect width="536" height="118" rx="10" fill="url(#card_inner)" stroke="#1e293b" stroke-width="1.2" />
-    <text x="20" y="28" fill="#818cf8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="700">Cognifyz Technologies &mdash; Software Engineering Intern</text>
-    <text x="20" y="52" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="500">&bull; Developed structured Python backend modules and CLI task management systems using OOP principles.</text>
-    <text x="20" y="74" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="500">&bull; Implemented in-memory &amp; database CRUD architectures, data validation pipelines &amp; unit testing suites.</text>
+    <text x="20" y="28" fill="#818cf8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="700">Cognifyz Technologies &#8212; Software Engineering Intern</text>
+    <text x="20" y="52" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="500">&#8226; Developed structured Python backend modules and CLI task management systems using OOP principles.</text>
+    <text x="20" y="74" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="500">&#8226; Implemented in-memory &amp; database CRUD architectures, data validation pipelines &amp; unit testing suites.</text>
     <text x="20" y="98" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="400">Focus: Software engineering best practices, modular architecture &amp; automated test coverage</text>
   </g>
 
   <g transform="translate(48, 220)">
     <rect width="536" height="118" rx="10" fill="url(#card_inner)" stroke="#1e293b" stroke-width="1.2" />
-    <text x="20" y="28" fill="#38bdf8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="700">CodSoft &mdash; Python Backend Intern</text>
-    <text x="20" y="52" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="500">&bull; Developed backend applications and automated data workflows using Python.</text>
-    <text x="20" y="74" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="500">&bull; Implemented RESTful API endpoints, core business logic, and structured database integrations.</text>
+    <text x="20" y="28" fill="#38bdf8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="700">CodSoft &#8212; Python Backend Intern</text>
+    <text x="20" y="52" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="500">&#8226; Developed backend applications and automated data workflows using Python.</text>
+    <text x="20" y="74" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="500">&#8226; Implemented RESTful API endpoints, core business logic, and structured database integrations.</text>
     <text x="20" y="98" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="400">Focus: Backend engineering, API contracts, and persistent relational data storage</text>
   </g>
 
   <g transform="translate(616, 220)">
     <rect width="536" height="118" rx="10" fill="url(#card_inner)" stroke="#1e293b" stroke-width="1.2" />
-    <text x="20" y="28" fill="#818cf8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="700">Syntecxhub &mdash; Python Backend Intern</text>
-    <text x="20" y="52" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="500">&bull; Built backend service utilities, inventory management solutions, and API integration modules in Python.</text>
-    <text x="20" y="74" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="500">&bull; Focused on clean modular software design, data consistency, and API contract compliance.</text>
+    <text x="20" y="28" fill="#818cf8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="700">Syntecxhub &#8212; Python Backend Intern</text>
+    <text x="20" y="52" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="500">&#8226; Built backend service utilities, inventory management solutions, and API integration modules in Python.</text>
+    <text x="20" y="74" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="500">&#8226; Focused on clean modular software design, data consistency, and API contract compliance.</text>
     <text x="20" y="98" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="400">Key Deliverables: Library Book Inventory Manager &amp; Task Automation Modules</text>
   </g>
 </svg>

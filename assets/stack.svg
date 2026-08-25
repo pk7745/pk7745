@@ -36,42 +36,42 @@
   <g transform="translate(48, 88)">
     <rect width="350" height="98" rx="10" fill="url(#card_inner)" stroke="#1e293b" stroke-width="1" />
     <text x="18" y="26" fill="#38bdf8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="700">LANGUAGES</text>
-    <text x="18" y="52" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="600">Python &bull; TypeScript &bull; JavaScript &bull; C &bull; SQL</text>
+    <text x="18" y="52" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="600">Python &#8226; TypeScript &#8226; JavaScript &#8226; C &#8226; SQL</text>
     <text x="18" y="78" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="400">Strong object-oriented &amp; functional programming</text>
   </g>
 
   <g transform="translate(425, 88)">
     <rect width="350" height="98" rx="10" fill="url(#card_inner)" stroke="#1e293b" stroke-width="1" />
     <text x="18" y="26" fill="#818cf8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="700">BACKEND &amp; APIS</text>
-    <text x="18" y="52" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="600">FastAPI &bull; Flask &bull; Node.js &bull; Express &bull; REST APIs</text>
+    <text x="18" y="52" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="600">FastAPI &#8226; Flask &#8226; Node.js &#8226; Express &#8226; REST APIs</text>
     <text x="18" y="78" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="400">High-throughput routing, middleware &amp; error models</text>
   </g>
 
   <g transform="translate(802, 88)">
     <rect width="350" height="98" rx="10" fill="url(#card_inner)" stroke="#1e293b" stroke-width="1" />
     <text x="18" y="26" fill="#c084fc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="700">FRONTEND ARCHITECTURE</text>
-    <text x="18" y="52" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="600">React 18 &bull; Vite &bull; HTML5 &bull; CSS3 &bull; Responsive UI</text>
+    <text x="18" y="52" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="600">React 18 &#8226; Vite &#8226; HTML5 &#8226; CSS3 &#8226; Responsive UI</text>
     <text x="18" y="78" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="400">Single Page Applications &amp; dark design systems</text>
   </g>
 
   <g transform="translate(48, 198)">
     <rect width="350" height="98" rx="10" fill="url(#card_inner)" stroke="#1e293b" stroke-width="1" />
     <text x="18" y="26" fill="#38bdf8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="700">DATABASES &amp; ORM</text>
-    <text x="18" y="52" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="600">PostgreSQL &bull; MongoDB &bull; SQLite &bull; Prisma &bull; SQLAlchemy</text>
-    <text x="18" y="78" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="400">Mongoose ODM &bull; Schema modeling &amp; migrations</text>
+    <text x="18" y="52" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="600">PostgreSQL &#8226; MongoDB &#8226; SQLite &#8226; Prisma &#8226; SQLAlchemy</text>
+    <text x="18" y="78" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="400">Mongoose ODM &#8226; Schema modeling &amp; migrations</text>
   </g>
 
   <g transform="translate(425, 198)">
-    <rect width="350" height="98" rx="10" fill="url(#card_inner)" stroke="#1e293b" stroke-width="1" />
+    <rect width="350" height="85" rx="10" fill="url(#card_inner)" stroke="#1e293b" stroke-width="1" />
     <text x="18" y="26" fill="#818cf8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="700">AI / ML &amp; VECTOR SEARCH</text>
-    <text x="18" y="52" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="600">Qdrant Vector DB &bull; OpenCLIP &bull; Sentence Transformers</text>
-    <text x="18" y="78" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="400">Google Gemini &bull; Multimodal embeddings &amp; hybrid ranking</text>
+    <text x="18" y="52" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="600">Qdrant Vector DB &#8226; OpenCLIP &#8226; Sentence Transformers</text>
+    <text x="18" y="78" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="400">Google Gemini &#8226; Multimodal embeddings &amp; hybrid ranking</text>
   </g>
 
   <g transform="translate(802, 198)">
-    <rect width="350" height="98" rx="10" fill="url(#card_inner)" stroke="#1e293b" stroke-width="1" />
+    <rect width="350" height="85" rx="10" fill="url(#card_inner)" stroke="#1e293b" stroke-width="1" />
     <text x="18" y="26" fill="#c084fc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="700">SECURITY, REAL-TIME &amp; CLOUD</text>
-    <text x="18" y="52" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="600">JWT &bull; 4-Tier RBAC &bull; Zod &bull; Pydantic v2 &bull; Socket.IO</text>
-    <text x="18" y="78" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="400">Git &bull; GitHub &bull; VS Code &bull; Render Cloud Deployments</text>
+    <text x="18" y="52" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="600">JWT &#8226; 4-Tier RBAC &#8226; Zod &#8226; Pydantic v2 &#8226; Socket.IO</text>
+    <text x="18" y="78" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="400">Git &#8226; GitHub &#8226; VS Code &#8226; Render Cloud Deployments</text>
   </g>
 </svg>
