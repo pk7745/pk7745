@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg_panel" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080d1a" />
+      <stop offset="50%" stop-color="#0e1726" />
+      <stop offset="100%" stop-color="#050811" />
+    </linearGradient>
+    <linearGradient id="card_inner" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#090d16" />
+    </linearGradient>
+    <linearGradient id="accent_grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="50%" stop-color="#6366f1" />
+      <stop offset="100%" stop-color="#a855f7" />
+    </linearGradient>
+    <linearGradient id="bar_accent" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="100%" stop-color="#6366f1" />
+    </linearGradient>
+    <pattern id="grid_dots" width="30" height="30" patternUnits="userSpaceOnUse">
+      <circle cx="15" cy="15" r="1" fill="#1e293b" />
+    </pattern>
+</defs>
+  <rect width="1200" height="280" rx="16" fill="url(#bg_panel)" stroke="#1e293b" stroke-width="1.5" />
+  <rect width="1200" height="280" rx="16" fill="url(#grid_dots)" />
+  <rect x="0" y="0" width="6" height="280" rx="3" fill="url(#bar_accent)" />
+
+  <g transform="translate(48, 28)">
+    <rect width="40" height="40" rx="8" fill="#0f172a" stroke="#334155" stroke-width="1" />
+    <text x="20" y="28" font-size="20" text-anchor="middle">&#128104;&#8205;&#128187;</text>
+  </g>
+  <text x="102" y="46" fill="#f8fafc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="21" font-weight="800" letter-spacing="-0.3">Profile Snapshot</text>
+  <text x="102" y="66" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="400">Academic foundation, core engineering disciplines, and industry exposure</text>
+
+  <g transform="translate(48, 90)">
+    <rect width="536" height="160" rx="12" fill="url(#card_inner)" stroke="#1e293b" stroke-width="1.2" />
+    <text x="24" y="36" fill="#38bdf8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="700">&#127891; Academic &amp; Core Disciplines</text>
+    <text x="24" y="66" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500">&bull; Bachelor of Computer Applications (BCA) &bull; Expected: <tspan fill="#38bdf8" font-weight="700">2027</tspan></text>
+    <text x="24" y="94" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500">&bull; Full-Stack Web Development (React, TypeScript, Node.js, Express)</text>
+    <text x="24" y="122" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500">&bull; High-Throughput Backend Architecture &amp; REST APIs (FastAPI, Flask)</text>
+    <text x="24" y="146" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400">&bull; Practical, production-first software design with clean system abstractions</text>
+  </g>
+
+  <g transform="translate(616, 90)">
+    <rect width="536" height="160" rx="12" fill="url(#card_inner)" stroke="#1e293b" stroke-width="1.2" />
+    <text x="24" y="36" fill="#818cf8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="700">&#127959; Data Layers, Security &amp; Experience</text>
+    <text x="24" y="66" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500">&bull; Relational &amp; Document DBs: PostgreSQL, MongoDB, SQLite, Prisma, Mongoose</text>
+    <text x="24" y="94" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500">&bull; Vector Search &amp; Multimodal AI: Qdrant, OpenCLIP, Sentence Transformers</text>
+    <text x="24" y="122" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500">&bull; Security &amp; Access: JWT with httpOnly rotation, 4-Tier RBAC, Zod, Pydantic</text>
+    <text x="24" y="146" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400">&bull; 4 Internships (CodeAlpha, Cognifyz, CodSoft, Syntecxhub) &amp; 4 Hackathons</text>
+  </g>
+</svg>

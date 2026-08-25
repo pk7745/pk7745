@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 270" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg_panel" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080d1a" />
+      <stop offset="50%" stop-color="#0e1726" />
+      <stop offset="100%" stop-color="#050811" />
+    </linearGradient>
+    <linearGradient id="card_inner" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#090d16" />
+    </linearGradient>
+    <linearGradient id="accent_grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="50%" stop-color="#6366f1" />
+      <stop offset="100%" stop-color="#a855f7" />
+    </linearGradient>
+    <linearGradient id="bar_accent" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="100%" stop-color="#6366f1" />
+    </linearGradient>
+    <pattern id="grid_dots" width="30" height="30" patternUnits="userSpaceOnUse">
+      <circle cx="15" cy="15" r="1" fill="#1e293b" />
+    </pattern>
+</defs>
+  <rect width="1200" height="270" rx="16" fill="url(#bg_panel)" stroke="#1e293b" stroke-width="1.5" />
+  <rect width="1200" height="270" rx="16" fill="url(#grid_dots)" />
+  <rect x="0" y="0" width="5" height="270" rx="2.5" fill="url(#bar_accent)" />
+
+  <g opacity="0.15" stroke="#38bdf8" stroke-width="1.6" fill="none"><path d="M 940 70 L 980 100 L 940 130" /><path d="M 1040 70 L 1000 100 L 1040 130" /></g>
+
+  <g transform="translate(48, 26)">
+    <rect width="168.0" height="22" rx="5" fill="#0369a1" fill-opacity="0.3" stroke="#0284c7" stroke-width="0.8" />
+    <text x="9" y="15" fill="#38bdf8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="10.5" font-weight="700" letter-spacing="0.5">BACKEND MICROSERVICE</text>
+  </g>
+
+  <g transform="translate(1152, 26)">
+    <rect x="-171" width="171" height="24" rx="12" fill="#0f172a" stroke="#334155" stroke-width="1" />
+    <circle cx="-159" cy="12" r="4" fill="#10b981" />
+    <text x="-147" y="16" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600">PostgreSQL Persistent</text>
+  </g>
+
+  <text x="48" y="78" fill="#f8fafc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="22" font-weight="800" letter-spacing="-0.3">URL Shortener API &mdash; High-Performance REST Service</text>
+  <text x="48" y="100" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400">Lightweight, persistent RESTful web service for URL shortening, validation, and redirection.</text>
+
+  <text x="48" y="124" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="400">&bull; Production-ready API service converting long HTTP/HTTPS URLs into compact Base62 short codes with automatic HTTP 307 redirects.</text><text x="48" y="148" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="400">&bull; Collision-resistant short code generator with database-level unique constraints and retry mechanisms.</text><text x="48" y="172" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="400">&bull; Complete PostgreSQL persistence without in-memory state dependencies, featuring OpenAPI/Swagger documentation and Pydantic validation.</text>
+
+  <g transform="translate(0, 224)">
+    
+      <g transform="translate(48, 0)">
+        <rect width="72.5" height="24" rx="6" fill="#0f172a" stroke="#334155" stroke-width="1" />
+        <text x="36.0" y="16" fill="#93c5fd" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" text-anchor="middle">FastAPI</text>
+      </g>
+      <g transform="translate(128.5, 0)">
+        <rect width="95.0" height="24" rx="6" fill="#0f172a" stroke="#334155" stroke-width="1" />
+        <text x="47.0" y="16" fill="#93c5fd" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" text-anchor="middle">PostgreSQL</text>
+      </g>
+      <g transform="translate(231.5, 0)">
+        <rect width="132.5" height="24" rx="6" fill="#0f172a" stroke="#334155" stroke-width="1" />
+        <text x="66.0" y="16" fill="#93c5fd" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" text-anchor="middle">SQLAlchemy 2.0+</text>
+      </g>
+      <g transform="translate(372.0, 0)">
+        <rect width="102.5" height="24" rx="6" fill="#0f172a" stroke="#334155" stroke-width="1" />
+        <text x="51.0" y="16" fill="#93c5fd" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" text-anchor="middle">Pydantic v2</text>
+      </g>
+      <g transform="translate(482.5, 0)">
+        <rect width="132.5" height="24" rx="6" fill="#0f172a" stroke="#334155" stroke-width="1" />
+        <text x="66.0" y="16" fill="#93c5fd" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" text-anchor="middle">Base62 Encoding</text>
+      </g>
+      <g transform="translate(623.0, 0)">
+        <rect width="147.5" height="24" rx="6" fill="#0f172a" stroke="#334155" stroke-width="1" />
+        <text x="73.0" y="16" fill="#93c5fd" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" text-anchor="middle">Render Deployment</text>
+      </g>
+      <g transform="translate(778.5, 0)">
+        <rect width="80.0" height="24" rx="6" fill="#0f172a" stroke="#334155" stroke-width="1" />
+        <text x="40.0" y="16" fill="#93c5fd" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" text-anchor="middle">REST API</text>
+      </g>
+  </g>
+</svg>
