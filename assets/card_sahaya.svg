@@ -1,57 +1,71 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 170" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 175" width="100%" height="100%">
   <defs>
-    <linearGradient id="card_grad_Saha" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0d1527" />
-      <stop offset="100%" stop-color="#080c16" />
+    <linearGradient id="card_grad_sahaya" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#090d16" />
     </linearGradient>
-    <linearGradient id="card_bar_Saha" x1="0%" y1="0%" x2="0%" y2="100%">
+    <linearGradient id="card_bar_sahaya" x1="0%" y1="0%" x2="0%" y2="100%">
       <stop offset="0%" stop-color="#38bdf8" />
       <stop offset="100%" stop-color="#818cf8" />
     </linearGradient>
   </defs>
 
-  <rect width="1200" height="170" rx="12" fill="url(#card_grad_Saha)" stroke="#1e293b" stroke-width="1.2" />
-  <rect x="0" y="0" width="5" height="170" rx="2.5" fill="url(#card_bar_Saha)" />
+  <rect width="1200" height="175" rx="12" fill="url(#card_grad_sahaya)" stroke="#1e293b" stroke-width="1.2" />
+  <rect x="0" y="0" width="5" height="175" rx="2.5" fill="url(#card_bar_sahaya)" />
 
-  <g transform="translate(50, 30)">
-    <rect width="143.5" height="20" rx="4" fill="#0369a1" fill-opacity="0.3" stroke="#0284c7" stroke-width="0.8" />
-    <text x="8" y="14" fill="#38bdf8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="700" letter-spacing="0.5">CONVERSATIONAL AI</text>
+  
+    <g opacity="0.15" stroke="#38bdf8" stroke-width="2" stroke-linecap="round">
+      <line x1="940" y1="75" x2="940" y2="95" />
+      <line x1="960" y1="60" x2="960" y2="110" />
+      <line x1="980" y1="45" x2="980" y2="125" />
+      <line x1="1000" y1="65" x2="1000" y2="105" />
+      <line x1="1020" y1="50" x2="1020" y2="120" />
+      <line x1="1040" y1="70" x2="1040" y2="100" />
+    </g>
+
+  <!-- Category Tag -->
+  <g transform="translate(48, 28)">
+    <rect width="143.5" height="22" rx="5" fill="#0369a1" fill-opacity="0.3" stroke="#0284c7" stroke-width="0.8" />
+    <text x="8" y="15" fill="#38bdf8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="10.5" font-weight="700" letter-spacing="0.5">CONVERSATIONAL AI</text>
   </g>
 
-  <g transform="translate(1150, 30)">
-    <rect x="-202" width="202" height="22" rx="11" fill="#1e293b" stroke="#334155" stroke-width="1" />
-    <circle cx="-192" cy="11" r="3.5" fill="#10b981" />
-    <text x="-182" y="15" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="600">Multilingual Vector Search</text>
+  <!-- Metric Pill -->
+  <g transform="translate(1152, 28)">
+    <rect x="-204" width="204" height="22" rx="11" fill="#0f172a" stroke="#334155" stroke-width="1" />
+    <circle cx="-193" cy="11" r="3.5" fill="#10b981" />
+    <text x="-182" y="15" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="600">Multilingual Vector Search</text>
   </g>
 
-  <text x="50" y="80" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="22" font-weight="800" letter-spacing="-0.3">Sahaya AI</text>
-  <text x="50" y="106" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="400">Multilingual Citizen Intelligence Platform with High-Dimensional Vector Search & Voice Integration</text>
+  <!-- Project Name & Tagline -->
+  <text x="48" y="82" fill="#f8fafc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="22" font-weight="800" letter-spacing="-0.3">Sahaya AI</text>
+  <text x="48" y="108" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400">Multilingual Citizen Intelligence Platform with High-Dimensional Vector Search</text>
 
-  <g transform="translate(0, 126)">
+  <!-- Technology Chips -->
+  <g transform="translate(0, 130)">
     
-      <g transform="translate(50, 0)">
-        <rect width="68" height="24" rx="5" fill="#1e293b" stroke="#334155" stroke-width="1" />
-        <text x="34" y="16" fill="#93c5fd" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="600" text-anchor="middle">Python</text>
+      <g transform="translate(48, 0)">
+        <rect width="68" height="24" rx="6" fill="#0f172a" stroke="#334155" stroke-width="1" />
+        <text x="34" y="16" fill="#93c5fd" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" text-anchor="middle">Python</text>
       </g>
-      <g transform="translate(126, 0)">
-        <rect width="76" height="24" rx="5" fill="#1e293b" stroke="#334155" stroke-width="1" />
-        <text x="38" y="16" fill="#93c5fd" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="600" text-anchor="middle">FastAPI</text>
+      <g transform="translate(124, 0)">
+        <rect width="76" height="24" rx="6" fill="#0f172a" stroke="#334155" stroke-width="1" />
+        <text x="38" y="16" fill="#93c5fd" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" text-anchor="middle">FastAPI</text>
       </g>
-      <g transform="translate(210, 0)">
-        <rect width="148" height="24" rx="5" fill="#1e293b" stroke="#334155" stroke-width="1" />
-        <text x="74" y="16" fill="#93c5fd" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="600" text-anchor="middle">Qdrant Vector DB</text>
+      <g transform="translate(208, 0)">
+        <rect width="148" height="24" rx="6" fill="#0f172a" stroke="#334155" stroke-width="1" />
+        <text x="74" y="16" fill="#93c5fd" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" text-anchor="middle">Qdrant Vector DB</text>
       </g>
-      <g transform="translate(366, 0)">
-        <rect width="188" height="24" rx="5" fill="#1e293b" stroke="#334155" stroke-width="1" />
-        <text x="94" y="16" fill="#93c5fd" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="600" text-anchor="middle">Sentence Transformers</text>
+      <g transform="translate(364, 0)">
+        <rect width="188" height="24" rx="6" fill="#0f172a" stroke="#334155" stroke-width="1" />
+        <text x="94" y="16" fill="#93c5fd" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" text-anchor="middle">Sentence Transformers</text>
       </g>
-      <g transform="translate(562, 0)">
-        <rect width="124" height="24" rx="5" fill="#1e293b" stroke="#334155" stroke-width="1" />
-        <text x="62" y="16" fill="#93c5fd" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="600" text-anchor="middle">Vapi Voice AI</text>
+      <g transform="translate(560, 0)">
+        <rect width="124" height="24" rx="6" fill="#0f172a" stroke="#334155" stroke-width="1" />
+        <text x="62" y="16" fill="#93c5fd" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" text-anchor="middle">Vapi Voice AI</text>
       </g>
-      <g transform="translate(694, 0)">
-        <rect width="84" height="24" rx="5" fill="#1e293b" stroke="#334155" stroke-width="1" />
-        <text x="42" y="16" fill="#93c5fd" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="600" text-anchor="middle">REST API</text>
+      <g transform="translate(692, 0)">
+        <rect width="84" height="24" rx="6" fill="#0f172a" stroke="#334155" stroke-width="1" />
+        <text x="42" y="16" fill="#93c5fd" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" text-anchor="middle">REST API</text>
       </g>
   </g>
 </svg>

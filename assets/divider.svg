@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 16" width="100%" height="100%">
   <defs>
-    <linearGradient id="div_glow" x1="0%" y1="0%" x2="100%" y2="0%">
+    <linearGradient id="div_glow_main" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#38bdf8" stop-opacity="0" />
       <stop offset="30%" stop-color="#38bdf8" stop-opacity="0.6" />
       <stop offset="70%" stop-color="#818cf8" stop-opacity="0.6" />
       <stop offset="100%" stop-color="#818cf8" stop-opacity="0" />
     </linearGradient>
   </defs>
-  <line x1="100" y1="8" x2="1100" y2="8" stroke="url(#div_glow)" stroke-width="1.2" />
+  <line x1="80" y1="8" x2="1120" y2="8" stroke="url(#div_glow_main)" stroke-width="1.2" />
   <circle cx="600" cy="8" r="3" fill="#38bdf8" />
 </svg>

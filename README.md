@@ -14,20 +14,20 @@
 
 <img src="assets/section_snapshot.svg" alt="Profile Snapshot" width="100%" />
 
-- 🎓 **Education:** Bachelor of Computer Applications (BCA) • Expected Graduation: **2027**
-- ⚙️ **Core Focus:** Full-Stack Web Applications, Backend Architecture, REST API Engineering, and AI/ML Systems
-- 🏗️ **Systems & Data:** Relational & document databases (PostgreSQL, MongoDB, SQLite), ORM modeling (Prisma, SQLAlchemy, Mongoose), vector databases (Qdrant), and real-time synchronization
-- 🔐 **Security & Ops:** JWT authentication, httpOnly refresh token rotation, Role-Based Access Control (RBAC), schema validation (Zod, Pydantic), and cloud deployment workflows
-- 💼 **Industry Exposure:** Full-stack and Python backend internships at CodeAlpha, Cognifyz Technologies, CodSoft, and Syntecxhub
+- 🎓 **Academic Standing:** Bachelor of Computer Applications (BCA) • Expected Graduation: **2027**
+- ⚙️ **Core Engineering Focus:** Full-Stack Web Applications, Backend Architecture, REST API Engineering, and AI/ML Systems
+- 🏗️ **Data & Storage Systems:** Relational & document databases (PostgreSQL, MongoDB, SQLite), ORM/ODM modeling (Prisma, SQLAlchemy, Mongoose), and vector databases (Qdrant)
+- 🔐 **Security & Access Control:** JWT authentication with httpOnly refresh token rotation, Role-Based Access Control (RBAC), schema validation (Zod, Pydantic v2), and cloud deployment workflows
+- 💼 **Industry Experience:** Full-stack and Python backend internships across CodeAlpha, Cognifyz Technologies, CodSoft, and Syntecxhub
 - 🏆 **Competitive Engineering:** Active participant in nationwide hackathons (Hack2Skill Datathon, India Runs AI & Data Challenge, UniHack, HackBLR)
 
 <br />
 
-<img src="assets/section_focus.svg" alt="What I Work On" width="100%" />
+<img src="assets/section_focus.svg" alt="Engineering Focus" width="100%" />
 
-- **Backend Architecture & APIs:** Designing robust RESTful services with FastAPI, Express, and Flask; enforcing strict request validation, structured error handling, and standard status codes.
-- **Full-Stack Application Development:** Building responsive, type-safe interfaces using React and TypeScript backed by scalable Node.js or Python application servers.
-- **AI & Intelligent Systems:** Developing semantic search pipelines, vector retrieval with Qdrant, hybrid re-ranking models, and domain-grounded LLM orchestration.
+- **Backend Architecture & APIs:** Designing robust, stateless RESTful services with FastAPI, Express, and Flask; enforcing strict request validation, structured error handling, and standard HTTP response contracts.
+- **Full-Stack Application Development:** Building responsive, type-safe interfaces in React and TypeScript backed by scalable Node.js and Python backend microservices.
+- **AI & Intelligent Systems:** Developing multimodal semantic search pipelines, vector retrieval with Qdrant, hybrid re-ranking models, and domain-grounded LLM orchestration.
 - **Data Engineering & Governance:** Transforming raw multi-format datasets into validated schema contracts, implementing deterministic entity resolution, quality scoring, and automated audits.
 - **Production & Security Workflows:** Implementing token-based authentication (JWT), password hashing (bcrypt), granular Role-Based Access Control (RBAC), and cloud deployments on Render.
 
@@ -37,7 +37,7 @@
 
 <div align="center">
 
-| Domain | Technologies & Tools |
+| Domain | Technologies & Frameworks |
 | :--- | :--- |
 | **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
 | **Backend & APIs** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=flat-square&logo=postman&logoColor=white) |
@@ -71,7 +71,7 @@
 
 <img src="assets/card_lume.svg" alt="LUMÉ Project Card" width="100%" />
 
-- **What I Built:** Complete e-commerce engine featuring dynamic catalog filtering, cart/wishlist management, checkout flows, and a dedicated admin dashboard with MongoDB-backed KPI analytics.
+- **What I Built:** Complete e-commerce web application featuring dynamic catalog filtering, cart/wishlist management, checkout flows, and a dedicated admin dashboard with MongoDB-backed KPI analytics.
 - **Key Engineering:** React, TypeScript, Vite, Node.js, Express, MongoDB, Mongoose, JWT, bcryptjs, Vitest, Supertest.
 - **Highlights:**
   - Dual-token authentication system utilizing short-lived access JWTs and secure httpOnly refresh-token rotation.

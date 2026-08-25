@@ -1,57 +1,70 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 170" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 175" width="100%" height="100%">
   <defs>
-    <linearGradient id="card_grad_UNIL" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0d1527" />
-      <stop offset="100%" stop-color="#080c16" />
+    <linearGradient id="card_grad_unilog" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#090d16" />
     </linearGradient>
-    <linearGradient id="card_bar_UNIL" x1="0%" y1="0%" x2="0%" y2="100%">
+    <linearGradient id="card_bar_unilog" x1="0%" y1="0%" x2="0%" y2="100%">
       <stop offset="0%" stop-color="#38bdf8" />
       <stop offset="100%" stop-color="#818cf8" />
     </linearGradient>
   </defs>
 
-  <rect width="1200" height="170" rx="12" fill="url(#card_grad_UNIL)" stroke="#1e293b" stroke-width="1.2" />
-  <rect x="0" y="0" width="5" height="170" rx="2.5" fill="url(#card_bar_UNIL)" />
+  <rect width="1200" height="175" rx="12" fill="url(#card_grad_unilog)" stroke="#1e293b" stroke-width="1.2" />
+  <rect x="0" y="0" width="5" height="175" rx="2.5" fill="url(#card_bar_unilog)" />
 
-  <g transform="translate(50, 30)">
-    <rect width="173.5" height="20" rx="4" fill="#0369a1" fill-opacity="0.3" stroke="#0284c7" stroke-width="0.8" />
-    <text x="8" y="14" fill="#38bdf8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="700" letter-spacing="0.5">DATA ENGINEERING & AI</text>
+  
+    <g opacity="0.15" stroke="#38bdf8" stroke-width="1.5" fill="none">
+      <rect x="880" y="65" width="40" height="40" rx="6" />
+      <line x1="920" y1="85" x2="960" y2="85" />
+      <rect x="960" y="65" width="40" height="40" rx="6" />
+      <line x1="1000" y1="85" x2="1040" y2="85" />
+      <rect x="1040" y="65" width="40" height="40" rx="6" />
+    </g>
+
+  <!-- Category Tag -->
+  <g transform="translate(48, 28)">
+    <rect width="173.5" height="22" rx="5" fill="#0369a1" fill-opacity="0.3" stroke="#0284c7" stroke-width="0.8" />
+    <text x="8" y="15" fill="#38bdf8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="10.5" font-weight="700" letter-spacing="0.5">DATA ENGINEERING & AI</text>
   </g>
 
-  <g transform="translate(1150, 30)">
-    <rect x="-139" width="139" height="22" rx="11" fill="#1e293b" stroke="#334155" stroke-width="1" />
-    <circle cx="-129" cy="11" r="3.5" fill="#10b981" />
-    <text x="-119" y="15" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="600">11/11 Pytest PASS</text>
+  <!-- Metric Pill -->
+  <g transform="translate(1152, 28)">
+    <rect x="-141" width="141" height="22" rx="11" fill="#0f172a" stroke="#334155" stroke-width="1" />
+    <circle cx="-130" cy="11" r="3.5" fill="#10b981" />
+    <text x="-119" y="15" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="600">11/11 Pytest PASS</text>
   </g>
 
-  <text x="50" y="80" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="22" font-weight="800" letter-spacing="-0.3">UNILOG</text>
-  <text x="50" y="106" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="400">Product Intelligence & Catalog Enrichment Engine Enforcing Immutable 252-Column Schema Contract</text>
+  <!-- Project Name & Tagline -->
+  <text x="48" y="82" fill="#f8fafc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="22" font-weight="800" letter-spacing="-0.3">UNILOG</text>
+  <text x="48" y="108" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400">Product Intelligence Engine Enforcing Immutable 252-Column Schema Contract</text>
 
-  <g transform="translate(0, 126)">
+  <!-- Technology Chips -->
+  <g transform="translate(0, 130)">
     
-      <g transform="translate(50, 0)">
-        <rect width="116" height="24" rx="5" fill="#1e293b" stroke="#334155" stroke-width="1" />
-        <text x="58" y="16" fill="#93c5fd" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="600" text-anchor="middle">Python 3.10+</text>
+      <g transform="translate(48, 0)">
+        <rect width="116" height="24" rx="6" fill="#0f172a" stroke="#334155" stroke-width="1" />
+        <text x="58" y="16" fill="#93c5fd" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" text-anchor="middle">Python 3.10+</text>
       </g>
-      <g transform="translate(174, 0)">
-        <rect width="132" height="24" rx="5" fill="#1e293b" stroke="#334155" stroke-width="1" />
-        <text x="66" y="16" fill="#93c5fd" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="600" text-anchor="middle">FastAPI v0.115</text>
+      <g transform="translate(172, 0)">
+        <rect width="132" height="24" rx="6" fill="#0f172a" stroke="#334155" stroke-width="1" />
+        <text x="66" y="16" fill="#93c5fd" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" text-anchor="middle">FastAPI v0.115</text>
       </g>
-      <g transform="translate(314, 0)">
-        <rect width="84" height="24" rx="5" fill="#1e293b" stroke="#334155" stroke-width="1" />
-        <text x="42" y="16" fill="#93c5fd" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="600" text-anchor="middle">React 18</text>
+      <g transform="translate(312, 0)">
+        <rect width="84" height="24" rx="6" fill="#0f172a" stroke="#334155" stroke-width="1" />
+        <text x="42" y="16" fill="#93c5fd" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" text-anchor="middle">React 18</text>
       </g>
-      <g transform="translate(406, 0)">
-        <rect width="108" height="24" rx="5" fill="#1e293b" stroke="#334155" stroke-width="1" />
-        <text x="54" y="16" fill="#93c5fd" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="600" text-anchor="middle">Pydantic v2</text>
+      <g transform="translate(404, 0)">
+        <rect width="108" height="24" rx="6" fill="#0f172a" stroke="#334155" stroke-width="1" />
+        <text x="54" y="16" fill="#93c5fd" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" text-anchor="middle">Pydantic v2</text>
       </g>
-      <g transform="translate(522, 0)">
-        <rect width="164" height="24" rx="5" fill="#1e293b" stroke="#334155" stroke-width="1" />
-        <text x="82" y="16" fill="#93c5fd" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="600" text-anchor="middle">Quality Governance</text>
+      <g transform="translate(520, 0)">
+        <rect width="164" height="24" rx="6" fill="#0f172a" stroke="#334155" stroke-width="1" />
+        <text x="82" y="16" fill="#93c5fd" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" text-anchor="middle">Quality Governance</text>
       </g>
-      <g transform="translate(694, 0)">
-        <rect width="156" height="24" rx="5" fill="#1e293b" stroke="#334155" stroke-width="1" />
-        <text x="78" y="16" fill="#93c5fd" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="600" text-anchor="middle">Entity Resolution</text>
+      <g transform="translate(692, 0)">
+        <rect width="156" height="24" rx="6" fill="#0f172a" stroke="#334155" stroke-width="1" />
+        <text x="78" y="16" fill="#93c5fd" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" text-anchor="middle">Entity Resolution</text>
       </g>
   </g>
 </svg>
