@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="header.svg" alt="Pavan Kumar S - Engineering Header" width="100%" />
+  <img src="assets/hero.svg" alt="Pavan Kumar S - Full-Stack Developer • Backend Engineer • AI/ML Enthusiast" width="100%" />
 
   <br />
 
@@ -10,9 +10,9 @@
 
 </div>
 
----
+<img src="assets/divider.svg" width="100%" />
 
-### 👨‍💻 Profile Snapshot
+<img src="assets/section_snapshot.svg" alt="Profile Snapshot" width="100%" />
 
 - 🎓 **Education:** Bachelor of Computer Applications (BCA) • Expected Graduation: **2027**
 - ⚙️ **Core Focus:** Full-Stack Web Applications, Backend Architecture, REST API Engineering, and AI/ML Systems
@@ -21,19 +21,19 @@
 - 💼 **Industry Exposure:** Full-stack and Python backend internships at CodeAlpha, Cognifyz Technologies, CodSoft, and Syntecxhub
 - 🏆 **Competitive Engineering:** Active participant in nationwide hackathons (Hack2Skill Datathon, India Runs AI & Data Challenge, UniHack, HackBLR)
 
----
+<br />
 
-### 🔭 Current Focus
+<img src="assets/section_focus.svg" alt="What I Work On" width="100%" />
 
-- **Backend Engineering:** Architecting scalable, stateless REST APIs with FastAPI, Express, and Flask; enforcing strict request validation, structured error handling, and database connection pooling.
-- **Full-Stack Architecture:** Building type-safe, component-driven client interfaces in React and TypeScript backed by scalable Node.js and Python services.
-- **AI & Intelligent Systems:** Designing multimodal semantic search pipelines, vector retrieval with Qdrant, hybrid re-ranking models, and domain-grounded LLM orchestration.
-- **Data Engineering & Governance:** Developing ingestion pipelines that enforce strict schema contracts, automated entity resolution, quality scoring, and data validation suites.
-- **Production & Cloud Deployments:** Hardening systems with token rotation, rate limiting, security headers, containerized workflows, and cloud deployments on Render.
+- **Backend Architecture & APIs:** Designing robust RESTful services with FastAPI, Express, and Flask; enforcing strict request validation, structured error handling, and standard status codes.
+- **Full-Stack Application Development:** Building responsive, type-safe interfaces using React and TypeScript backed by scalable Node.js or Python application servers.
+- **AI & Intelligent Systems:** Developing semantic search pipelines, vector retrieval with Qdrant, hybrid re-ranking models, and domain-grounded LLM orchestration.
+- **Data Engineering & Governance:** Transforming raw multi-format datasets into validated schema contracts, implementing deterministic entity resolution, quality scoring, and automated audits.
+- **Production & Security Workflows:** Implementing token-based authentication (JWT), password hashing (bcrypt), granular Role-Based Access Control (RBAC), and cloud deployments on Render.
 
----
+<br />
 
-### 🛠️ Technical Stack
+<img src="assets/section_stack.svg" alt="Technical Stack" width="100%" />
 
 <div align="center">
 
@@ -49,12 +49,13 @@
 
 </div>
 
----
+<br />
 
-### 🚀 Featured Projects
+<img src="assets/section_projects.svg" alt="Featured Projects" width="100%" />
 
-#### 1. Nexora — Enterprise Project Management & Collaboration Platform
-> A full-stack, real-time project management and team workspace platform engineered for agile engineering teams.
+### 1. NEXORA — Enterprise Project Management & Collaboration Platform
+
+<img src="assets/card_nexora.svg" alt="NEXORA Project Card" width="100%" />
 
 - **What I Built:** Comprehensive collaborative project suite featuring drag-and-drop Kanban boards with floating-point position ordering, slide-over task drawers, activity logging, and real-time multi-client synchronization.
 - **Key Engineering:** React 18, TypeScript, Vite, Node.js, Express, PostgreSQL, Prisma ORM, Socket.IO, JWT, bcrypt, Zod.
@@ -66,8 +67,9 @@
 
 ---
 
-#### 2. LUMÉ — Premium Botanical Skincare E-Commerce Platform
-> A production-grade full-stack commerce web application with a persistent data-driven analytics and administration layer.
+### 2. LUMÉ — Premium Botanical Skincare E-Commerce Platform
+
+<img src="assets/card_lume.svg" alt="LUMÉ Project Card" width="100%" />
 
 - **What I Built:** Complete e-commerce engine featuring dynamic catalog filtering, cart/wishlist management, checkout flows, and a dedicated admin dashboard with MongoDB-backed KPI analytics.
 - **Key Engineering:** React, TypeScript, Vite, Node.js, Express, MongoDB, Mongoose, JWT, bcryptjs, Vitest, Supertest.
@@ -79,8 +81,9 @@
 
 ---
 
-#### 3. UNILOG — Product Intelligence & Catalog Enrichment Engine
-> An enterprise data quality, entity resolution, and governance engine converting raw supplier records into standardized catalog intelligence.
+### 3. UNILOG — Product Intelligence & Catalog Enrichment Engine
+
+<img src="assets/card_unilog.svg" alt="UNILOG Project Card" width="100%" />
 
 - **What I Built:** High-throughput data transformation pipeline enforcing an immutable **252-column delivery schema contract** with automated brand resolution, category taxonomy mapping, and quality governance.
 - **Key Engineering:** Python 3.10+, FastAPI v0.115, React 18, Vite, Pydantic v2, Pytest.
@@ -92,8 +95,9 @@
 
 ---
 
-#### 4. TailorTalk Saree Search — Multimodal Visual & Hybrid Intelligence Engine
-> An intelligent visual and attribute search engine for ethnic apparel catalogs combining multimodal embeddings with real-time web verification.
+### 4. TailorTalk Saree Search — Multimodal Visual & Hybrid Intelligence Engine
+
+<img src="assets/card_tailortalk.svg" alt="TailorTalk Saree Search Project Card" width="100%" />
 
 - **What I Built:** Multi-stage vector retrieval and hybrid ranking system executing similarity matching against 1,070 authentic catalog items.
 - **Key Engineering:** Python, Google Gemini, Qdrant Vector Database, OpenCLIP (1024d + 3D HSV Fused Embeddings), Streamlit.
@@ -105,8 +109,9 @@
 
 ---
 
-#### 5. Redrob Ranker — AI-Powered Candidate Evaluation System
-> An algorithmic talent screening and candidate ranking engine built for high-volume recruitment challenges.
+### 5. Redrob Ranker — AI-Powered Candidate Evaluation System
+
+<img src="assets/card_redrob.svg" alt="Redrob Ranker Project Card" width="100%" />
 
 - **What I Built:** Data-driven ranking platform evaluating candidate profiles against job requirements using multi-factor weighted scoring.
 - **Key Engineering:** Python, Pandas, NumPy, In-Browser Processing.
@@ -118,8 +123,9 @@
 
 ---
 
-#### 6. URL Shortener API — High-Performance REST Service
-> A lightweight, persistent RESTful web service for URL shortening, validation, and redirection.
+### 6. URL Shortener API — High-Performance REST Service
+
+<img src="assets/card_urlshortener.svg" alt="URL Shortener API Project Card" width="100%" />
 
 - **What I Built:** Production-ready API service converting long HTTP/HTTPS URLs into compact Base62 short codes with automatic HTTP 307 redirects.
 - **Key Engineering:** Python, FastAPI, PostgreSQL, SQLAlchemy 2.0+, Pydantic v2, Render.
@@ -131,8 +137,9 @@
 
 ---
 
-#### 7. Sahaya AI — Multilingual Citizen Intelligence Platform
-> An AI-powered conversational assistance platform facilitating access to public services through natural language understanding.
+### 7. Sahaya AI — Multilingual Citizen Intelligence Platform
+
+<img src="assets/card_sahaya.svg" alt="Sahaya AI Project Card" width="100%" />
 
 - **What I Built:** Multilingual retrieval and interaction service answering citizen queries via semantic knowledge base search.
 - **Key Engineering:** Python, FastAPI, Qdrant Vector Database, Sentence Transformers, Vapi Voice AI.
@@ -143,8 +150,9 @@
 
 ---
 
-#### 8. BMS College ERP — Enterprise Academic Management Platform
-> A full-stack institutional administration platform automating faculty workflows, attendance, and operational governance.
+### 8. BMS College ERP — Enterprise Academic Management Platform
+
+<img src="assets/card_erp.svg" alt="BMS College ERP Project Card" width="100%" />
 
 - **What I Built:** Multi-role enterprise portal supporting administrative oversight, attendance tracking, task assignments, leave management, payroll, and real-time collaboration.
 - **Key Engineering:** Python, Flask, Supabase PostgreSQL, SQLAlchemy, Flask-SocketIO, Google Gemini.
@@ -154,9 +162,9 @@
   - Real-time communication layer powered by WebSockets.
 - **Links:** [Repository](https://github.com/pk7745/erp)
 
----
+<br />
 
-### 💼 Experience
+<img src="assets/section_experience.svg" alt="Professional Experience" width="100%" />
 
 - **CodeAlpha** — *Full Stack Development Intern*
   - Engineered production-oriented full-stack web platforms using React, TypeScript, Node.js, Express, MongoDB, and PostgreSQL.
@@ -171,26 +179,24 @@
   - Built backend service utilities, library inventory management solutions, and API integration modules in Python.
   - Focused on clean modular software design, data consistency, and API contract compliance.
 
----
+<br />
 
-### 📜 Certifications & Professional Learning
+<img src="assets/section_certifications.svg" alt="Certifications & Hackathons" width="100%" />
 
+#### 📜 Professional Certifications
 - 🔹 **IBM AI Fundamentals** — IBM
 - 🔹 **Prompt Design in Vertex AI** — Google Cloud
 - 🔹 **Technology Software Development Job Simulation** — Forage
 
----
-
-### 🏆 Hackathons & Technical Challenges
-
+#### 🏆 Hackathons & Technical Challenges
 - **Datathon** — *Hack2Skill (2026)*: Built data-driven intelligence and machine learning pipelines for complex dataset challenges.
 - **The AI & Data Challenge** — *India Runs (2026)*: Developed high-throughput candidate ranking and validation algorithms (Redrob Ranker).
 - **UniHack** — *Hack2Skill (2026)*: Engineered practical full-stack and AI-powered solutions under rapid sprint constraints.
 - **HackBLR** — *(2025)*: Built collaborative technical prototypes addressing real-world operational workflows.
 
----
+<br />
 
-### 📊 GitHub Activity & Metrics
+<img src="assets/section_stats.svg" alt="GitHub Activity & Metrics" width="100%" />
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=pk7745&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Pavan Kumar's GitHub Stats" />
@@ -201,9 +207,9 @@
   <img src="https://streak-stats.demolab.com?user=pk7745&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
----
+<br />
 
-### 🤝 Connect With Me
+<img src="assets/section_connect.svg" alt="Connect With Me" width="100%" />
 
 <div align="center">
 
