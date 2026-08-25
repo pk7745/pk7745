@@ -2,11 +2,11 @@
   <defs>
     <linearGradient id="div_glow_main" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#38bdf8" stop-opacity="0" />
-      <stop offset="30%" stop-color="#38bdf8" stop-opacity="0.6" />
-      <stop offset="70%" stop-color="#818cf8" stop-opacity="0.6" />
-      <stop offset="100%" stop-color="#818cf8" stop-opacity="0" />
+      <stop offset="30%" stop-color="#38bdf8" stop-opacity="0.7" />
+      <stop offset="70%" stop-color="#6366f1" stop-opacity="0.7" />
+      <stop offset="100%" stop-color="#6366f1" stop-opacity="0" />
     </linearGradient>
   </defs>
-  <line x1="80" y1="8" x2="1120" y2="8" stroke="url(#div_glow_main)" stroke-width="1.2" />
-  <circle cx="600" cy="8" r="3" fill="#38bdf8" />
+  <line x1="80" y1="8" x2="1120" y2="8" stroke="url(#div_glow_main)" stroke-width="1.5" />
+  <circle cx="600" cy="8" r="3.5" fill="#38bdf8" />
 </svg>

@@ -1,67 +1,75 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 175" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 185" width="100%" height="100%">
   <defs>
-    <linearGradient id="card_grad_erp" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0f172a" />
-      <stop offset="100%" stop-color="#090d16" />
+    <linearGradient id="bg_card" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080d1a" />
+      <stop offset="50%" stop-color="#0e1726" />
+      <stop offset="100%" stop-color="#050811" />
     </linearGradient>
-    <linearGradient id="card_bar_erp" x1="0%" y1="0%" x2="0%" y2="100%">
+    <linearGradient id="accent_cyan_indigo" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#38bdf8" />
-      <stop offset="100%" stop-color="#818cf8" />
+      <stop offset="50%" stop-color="#6366f1" />
+      <stop offset="100%" stop-color="#a855f7" />
     </linearGradient>
-  </defs>
-
-  <rect width="1200" height="175" rx="12" fill="url(#card_grad_erp)" stroke="#1e293b" stroke-width="1.2" />
-  <rect x="0" y="0" width="5" height="175" rx="2.5" fill="url(#card_bar_erp)" />
+    <linearGradient id="bar_accent" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="100%" stop-color="#6366f1" />
+    </linearGradient>
+    <pattern id="grid_dots" width="30" height="30" patternUnits="userSpaceOnUse">
+      <circle cx="15" cy="15" r="1" fill="#1e293b" />
+    </pattern>
+</defs>
+  <rect width="1200" height="185" rx="14" fill="url(#bg_card)" stroke="#1e293b" stroke-width="1.3" />
+  <rect x="0" y="0" width="5" height="185" rx="2.5" fill="url(#bar_accent)" />
 
   
-    <g opacity="0.15" stroke="#818cf8" stroke-width="1.5" fill="none">
-      <polygon points="980,45 1040,45 1070,95 1010,135 950,95" />
-      <circle cx="1010" cy="90" r="15" />
-    </g>
+  <g opacity="0.15" stroke="#6366f1" stroke-width="1.5" fill="none">
+    <polygon points="980,50 1040,50 1070,100 1010,140 950,100" />
+    <circle cx="1010" cy="95" r="16" />
+  </g>
 
   <!-- Category Tag -->
-  <g transform="translate(48, 28)">
-    <rect width="158.5" height="22" rx="5" fill="#0369a1" fill-opacity="0.3" stroke="#0284c7" stroke-width="0.8" />
-    <text x="8" y="15" fill="#38bdf8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="10.5" font-weight="700" letter-spacing="0.5">ENTERPRISE PLATFORM</text>
+  <g transform="translate(48, 26)">
+    <rect width="160.5" height="22" rx="5" fill="#0369a1" fill-opacity="0.3" stroke="#0284c7" stroke-width="0.8" />
+    <text x="9" y="15" fill="#38bdf8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="10.5" font-weight="700" letter-spacing="0.5">ENTERPRISE PLATFORM</text>
   </g>
 
   <!-- Metric Pill -->
-  <g transform="translate(1152, 28)">
-    <rect x="-162" width="162" height="22" rx="11" fill="#0f172a" stroke="#334155" stroke-width="1" />
-    <circle cx="-151" cy="11" r="3.5" fill="#10b981" />
-    <text x="-140" y="15" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="600">Role-Based Workflows</text>
+  <g transform="translate(1152, 26)">
+    <rect x="-164" width="164" height="24" rx="12" fill="#0f172a" stroke="#334155" stroke-width="1" />
+    <circle cx="-152" cy="12" r="4" fill="#10b981" />
+    <text x="-140" y="16" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600">Role-Based Workflows</text>
   </g>
 
   <!-- Project Name & Tagline -->
-  <text x="48" y="82" fill="#f8fafc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="22" font-weight="800" letter-spacing="-0.3">BMS College ERP</text>
-  <text x="48" y="108" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400">Enterprise Academic Platform with Anti-Spoofing Geofenced Attendance Workflows</text>
+  <text x="48" y="84" fill="#f8fafc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="23" font-weight="800" letter-spacing="-0.3">BMS College ERP</text>
+  <text x="48" y="112" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="400">Enterprise Academic Platform with Anti-Spoofing Geofenced Attendance Workflows</text>
 
   <!-- Technology Chips -->
-  <g transform="translate(0, 130)">
+  <g transform="translate(0, 136)">
     
       <g transform="translate(48, 0)">
-        <rect width="68" height="24" rx="6" fill="#0f172a" stroke="#334155" stroke-width="1" />
-        <text x="34" y="16" fill="#93c5fd" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" text-anchor="middle">Python</text>
+        <rect width="70" height="26" rx="6" fill="#0f172a" stroke="#334155" stroke-width="1" />
+        <text x="35" y="17" fill="#93c5fd" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" text-anchor="middle">Python</text>
       </g>
-      <g transform="translate(124, 0)">
-        <rect width="60" height="24" rx="6" fill="#0f172a" stroke="#334155" stroke-width="1" />
-        <text x="30" y="16" fill="#93c5fd" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" text-anchor="middle">Flask</text>
+      <g transform="translate(126, 0)">
+        <rect width="62" height="26" rx="6" fill="#0f172a" stroke="#334155" stroke-width="1" />
+        <text x="31" y="17" fill="#93c5fd" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" text-anchor="middle">Flask</text>
       </g>
-      <g transform="translate(192, 0)">
-        <rect width="172" height="24" rx="6" fill="#0f172a" stroke="#334155" stroke-width="1" />
-        <text x="86" y="16" fill="#93c5fd" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" text-anchor="middle">Supabase PostgreSQL</text>
+      <g transform="translate(196, 0)">
+        <rect width="174" height="26" rx="6" fill="#0f172a" stroke="#334155" stroke-width="1" />
+        <text x="87" y="17" fill="#93c5fd" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" text-anchor="middle">Supabase PostgreSQL</text>
       </g>
-      <g transform="translate(372, 0)">
-        <rect width="100" height="24" rx="6" fill="#0f172a" stroke="#334155" stroke-width="1" />
-        <text x="50" y="16" fill="#93c5fd" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" text-anchor="middle">SQLAlchemy</text>
+      <g transform="translate(378, 0)">
+        <rect width="102" height="26" rx="6" fill="#0f172a" stroke="#334155" stroke-width="1" />
+        <text x="51" y="17" fill="#93c5fd" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" text-anchor="middle">SQLAlchemy</text>
       </g>
-      <g transform="translate(480, 0)">
-        <rect width="132" height="24" rx="6" fill="#0f172a" stroke="#334155" stroke-width="1" />
-        <text x="66" y="16" fill="#93c5fd" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" text-anchor="middle">Flask-SocketIO</text>
+      <g transform="translate(488, 0)">
+        <rect width="134" height="26" rx="6" fill="#0f172a" stroke="#334155" stroke-width="1" />
+        <text x="67" y="17" fill="#93c5fd" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" text-anchor="middle">Flask-SocketIO</text>
       </g>
-      <g transform="translate(620, 0)">
-        <rect width="124" height="24" rx="6" fill="#0f172a" stroke="#334155" stroke-width="1" />
-        <text x="62" y="16" fill="#93c5fd" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" text-anchor="middle">Google Gemini</text>
+      <g transform="translate(630, 0)">
+        <rect width="126" height="26" rx="6" fill="#0f172a" stroke="#334155" stroke-width="1" />
+        <text x="63" y="17" fill="#93c5fd" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" text-anchor="middle">Google Gemini</text>
       </g>
   </g>
 </svg>
